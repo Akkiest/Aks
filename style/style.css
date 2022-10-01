@@ -1,0 +1,128 @@
+#body1{
+    width:70%;
+    margin: 100px;
+    border: 5px solid black;
+    margin: 40px;
+}
+#div1{
+    display: flex;
+    flex-direction: row;
+
+}
+.first{
+    padding-top: 10px;
+}
+#img1{
+    margin-top: 9px;
+    height: 25px;
+    padding-top: 8px;
+    padding-right: 5px;
+}
+#btn1{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    margin-top: 5px;
+    position: relative;
+    float: right;
+    bottom: 30px;
+    right: 228px;
+}
+#btn2{
+    border: 2px solid white;
+    background-color:white;
+    color: black;
+    position: relative;
+    float: right;
+    bottom: 30px;
+    left:20px;
+}
+#img2{
+    height: 25px;
+}
+#img3{
+     height: 20px;
+}
+#btn3{
+    border: 2px solid white;
+    background-color:white;
+    color: black;
+    position: relative;
+    float: right;
+    bottom: 30px;
+    left: 190px;
+    font-weight: bold;
+}
+#btn4{
+    border: 2px solid white;
+    background-color:white;
+    color: black;
+    position: relative;
+    float: right;
+    bottom: 35px;
+    left: 240px;
+    font-weight: bold;
+}
+#img4{
+    height: 15px;
+}
+#h5{
+    position: relative;
+    float:right;
+    bottom: 20px;
+    right:60px;
+    font-weight: 600;
+}
+#unorder{
+    color: blue;
+}
+.lists{
+     list-style: none;
+     padding-left:0px;
+     margin-left: 0px;
+}
+
+#img5{
+    background-color: lightblue;
+    height: 10px;
+}
+#btn5{
+    color: white;
+    background-color: grey;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+strong{
+    color: darkblue;
+    text-decoration:dashed;
+}
+#mid-div{
+    background-color: lightblue;
+    width:60%;
+    padding-left: 0px;
+}
+#side-div{
+    border: 2px solid black;
+    width:40%;
+    position: relative;
+    float: right;
+    bottom:120px;
+    
+}
+#img6{
+    height: 15px;
+    padding-bottom: 2px;
+}
+.lists2{
+    list-style: none;
+}
+#img7{
+    height:15px;
+}
+#img8{
+    height:15px;
+}
+#unorder{
+    padding-left: 0px;
+}
